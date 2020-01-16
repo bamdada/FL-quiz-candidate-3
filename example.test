@@ -1,2 +1,3 @@
 implement basic streaming protocol
 add video switching
+limit video switching to 4 total inputs
