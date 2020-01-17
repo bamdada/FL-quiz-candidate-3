@@ -2,3 +2,4 @@ implement basic streaming protocol
 add video switching
 add metadata wrapper
 capture basic camera metadata
+expand metadata wrapper
