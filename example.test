@@ -2,3 +2,4 @@ implement basic streaming protocol
 add video switching
 limit video switching to 4 total inputs
 add option for streaming using AirMix
+fix high bitrate decoding bug on Android devices
